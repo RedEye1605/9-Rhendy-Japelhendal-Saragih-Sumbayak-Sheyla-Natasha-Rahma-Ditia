@@ -93,7 +93,7 @@ Dataset berasal dari CDC's Behavioral Risk Factor Surveillance System (BRFSS) - 
 
 ## Deployment
 Aplikasi telah dideploy menggunakan Streamlit Cloud dan dapat diakses melalui link berikut:
-- [Heart Attack Risk Prediction App]([https://heart-attack-prediction-bcc.streamlit.app/](https://9-rhendy-japelhendal-saragih-sumbayak-sheyla-natasha-rahma-dit.streamlit.app/))
+- [Heart Attack Risk Prediction App](https://9-rhendy-japelhendal-saragih-sumbayak-sheyla-natasha-rahma-dit.streamlit.app/)
 
 ### Menjalankan Aplikasi Secara Lokal
 1. Install dependencies:
