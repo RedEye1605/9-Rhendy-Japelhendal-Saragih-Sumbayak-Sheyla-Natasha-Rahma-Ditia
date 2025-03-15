@@ -1,4 +1,4 @@
-﻿# BCC Intern 2025 - Data Science Collaboration
+# BCC Intern 2025 - Data Science Collaboration
  Repository ini dibuat untuk kolaborasi intern BCC 2025 dalam bidang Data Science. Repo ini digunakan untuk menyimpan dan berbagi notebook Jupyter, dataset, script Python, serta dokumentasi terkait proyek yang dikerjakan bersama.
 
 ## Struktur Repository
@@ -116,4 +116,8 @@ http://localhost:8501
 - Sheyla Natasha Rahma Ditia
 
 ## Disclaimer
+<<<<<<< HEAD
 Aplikasi ini memberikan estimasi risiko serangan jantung berdasarkan model statistik. Tidak menggantikan saran, diagnosis, atau penanganan medis profesional. Selalu konsultasikan dengan tenaga kesehatan untuk masalah medis.
+=======
+Aplikasi ini memberikan estimasi risiko serangan jantung berdasarkan model statistik. Tidak menggantikan saran, diagnosis, atau penanganan medis profesional. Selalu konsultasikan dengan tenaga kesehatan untuk masalah medis.
+>>>>>>> 86a108bf4928894ce43b387dab778dd7db7b98d7
